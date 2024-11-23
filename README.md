@@ -29,7 +29,7 @@ Running this tool is free as it is covered under the AWS Free Tier. If you have 
 ## Installing service-screener V2
 此Repo专门用于中国区。
 因中国区无Cloudshell支持，在中国区运行screener需要自行安装环境。
-可以使用EC2，安装Python3环境，并配置权限（IAM ROle，需要能够创建cloudformation stack的权限及需要扫描资源的只读权限）。
+可以使用EC2，安装Python3环境，并配置权限（IAM Role，需要能够创建cloudformation stack的权限及需要扫描资源的只读权限）。
 也可以在本地环境（Mac Terminal）运行此工具。
 
 In the terminal, run this script this to install the dependencies:
